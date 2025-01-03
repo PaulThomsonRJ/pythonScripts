@@ -1,7 +1,7 @@
 import copy
 from combatants import *
 
-attackers = [Carrier(), Destroyer(), Destroyer()]
+attackers = [Infantry(), Infantry()]
 defenders = [Infantry()]
 
 attacker_bonus = 1
